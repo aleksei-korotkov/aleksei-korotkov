@@ -9,6 +9,10 @@
   <li>[Job4j](https://job4j.ru/</li>  
 </ul>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=aleksei-korotkov&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-korotkov&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+
 <!--
 **aleksei-korotkov/aleksei-korotkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
