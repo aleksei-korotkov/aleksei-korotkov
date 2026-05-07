@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋 I am Alexey Korotkov :sunglasses:
+
+<b>About me:</b>
+
+<ul>
+  <li>I am 48 year old</li>
+  <li>I am from Nizhny Novgorod (Russia)</li>
+  <li>I learn Java at Job4j</li>
+  <li>[Job4j](https://job4j.ru/</li>  
+</ul>
 
 <!--
 **aleksei-korotkov/aleksei-korotkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
